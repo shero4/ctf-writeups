@@ -1,5 +1,7 @@
 # Notsimple: ret2stack + seccomp bypass + write ls in asm
 
+Flag is stored as a *filename* in the current folder
+
 There is an executable stack
 Steps:
 1. There is a buffer overflow with 88 offset
